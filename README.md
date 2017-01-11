@@ -9,7 +9,7 @@ Practice with customizing a bootstrap template into our own style.
  - Add new Pictures in img/portfolio
  - ✅ Remove sections/divs
   - Welcome and Work Process sections
- - Swap out text with some cupcake ipsum
+ - ✅ Swap out text with some cupcake ipsum
  - Change color schema
  - Go crazy
 - - - - -
