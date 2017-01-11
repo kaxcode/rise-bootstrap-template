@@ -5,20 +5,20 @@ Global Styles
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  color: #0d0d0d;
+  color: #aaf1ff;
   overflow-x: hidden;
 }
 
 .sep {
   max-width: 80px;
-  border: 2px solid #0d0d0d;
+  border: 2px solid #aaf1ff;
   margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .light-sep {
   max-width: 80px;
-  border: 2px solid #fff;
+  border: 2px solid #FFB8AA;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -28,7 +28,7 @@ Typography
 ========================================================================== */
 h1 {
   font-size: 72px;
-  color: #fff;
+  color: #FFB8AA;
   font-weight: 300;
   letter-spacing: 0.16em;
 }
@@ -76,13 +76,13 @@ Buttons Styles
 ========================================================================== */
 .btn-transparent {
   background: transparent;
-  border: 3px solid #fff;
+  border: 3px solid #FFB8AA;
   padding: 15px 30px;
   font-size: 14px;
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   border-radius: 0;
-  color: #fff;
+  color: #FFB8AA;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -95,20 +95,20 @@ Buttons Styles
 .btn-transparent:hover,
 .btn-transparent:focus,
 .btn-transparent:active {
-  background: #fff;
-  color: #0d0d0d;
+  background: #FFB8AA;
+  color: #aaf1ff;
   text-decoration: none;
 }
 
 .btn-light {
-  background: #fff;
-  border: 3px solid #fff;
+  background: #FFB8AA;
+  border: 3px solid #FFB8AA;
   padding: 15px 30px;
   font-size: 14px;
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   border-radius: 0;
-  color: #0d0d0d;
+  color: #aaf1ff;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -122,7 +122,7 @@ Buttons Styles
 .btn-light:focus,
 .btn-light:active {
   background: transparent;
-  color: #fff;
+  color: #FFB8AA;
   text-decoration: none;
 }
 
@@ -133,7 +133,7 @@ Buttons Styles
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   border-radius: 0;
-  color: #fff;
+  color: #FFB8AA;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -147,20 +147,20 @@ Buttons Styles
 .btn-block:hover,
 .btn-block:focus,
 .btn-block:active {
-  background: #fff;
-  color: #0d0d0d;
+  background: #FFB8AA;
+  color: #aaf1ff;
   text-decoration: none;
 }
 
 /* ==========================================================================
-Layout 
+Layout
 ========================================================================== */
 .dark-bg {
   background: #24242a;
 }
 
 .light-bg {
-  background: #fff;
+  background: #FFB8AA;
 }
 
     /* ==========================================================================
@@ -176,7 +176,7 @@ Preloader Style
   background: #24242a;
 }
 .preloader i {
-  color: #fff;
+  color: #FFB8AA;
   position: absolute;
   font-size: 36px;
   line-height: 36px;
@@ -206,7 +206,7 @@ Navigation Style
 }
 .navbar-default .nav > li > a {
   font-size: 14px;
-  color: #fff;
+  color: #FFB8AA;
   font-weight: 700;
   text-transform: uppercase;
   padding: 35px 15px;
@@ -281,7 +281,7 @@ Sliders Style
   font-weight: 700;
 }
 #owl-hero .item .caption h6 {
-  color: #fff;
+  color: #FFB8AA;
   margin: 0;
 }
 #owl-hero .owl-pagination {
@@ -292,10 +292,10 @@ Sliders Style
   bottom: 5%;
 }
 #owl-hero .owl-pagination .owl-page.active span {
-  background: #fff;
+  background: #FFB8AA;
 }
 #owl-hero .owl-pagination .owl-page span {
-  border: 2px solid #fff;
+  border: 2px solid #FFB8AA;
   border-radius: 50%;
   background: transparent;
   opacity: 1;
@@ -305,7 +305,7 @@ Sliders Style
   transition: all 0.3s ease-in-out;
 }
 #owl-hero .owl-buttons div {
-  background: #fff;
+  background: #FFB8AA;
   font-size: 24px;
   color: #a3a3a3;
   opacity: 1;
@@ -319,13 +319,13 @@ Sliders Style
 #owl-hero .owl-buttons .owl-prev,
 #owl-hero .owl-buttons .owl-next {
   position: absolute;
-  background: #fff;
+  background: #FFB8AA;
   top: 50%;
   height: 51px;
   width: 51px;
   line-height: 45px;
   border-radius: 0;
-  border: 1px solid #fff;
+  border: 1px solid #FFB8AA;
   z-index: 20;
   text-align: center;
   -moz-transition: all 0.3s ease-in-out;
@@ -370,10 +370,10 @@ Services Style
 }
 #services h2 {
   text-transform: uppercase;
-  color: #fff;
+  color: #FFB8AA;
 }
 #services p {
-  color: #fff;
+  color: #FFB8AA;
 }
 #services .services-box {
   margin-top: 40px;
@@ -396,14 +396,14 @@ Services Style
 #services .services-box .col-md-4 .media-right h3,
 #services .services-box .col-md-4 .media-body h3 {
   text-transform: uppercase;
-  color: #fff;
+  color: #FFB8AA;
   text-align: left;
 }
 #services .services-box .col-md-4 .media-left span,
 #services .services-box .col-md-4 .media-right span,
 #services .services-box .col-md-4 .media-body span {
   font-size: 36px;
-  color: #fff;
+  color: #FFB8AA;
 }
 
     /* ==========================================================================
@@ -440,7 +440,7 @@ Portfolio Style
   width: 100%;
   height: 100%;
   text-align: center;
-  color: #fff;
+  color: #FFB8AA;
   opacity: 0;
   background: rgba(13, 13, 13, 0.6);
   -moz-transition: all 0.3s ease-in-out;
@@ -486,11 +486,11 @@ Work Process Style
 }
 #work-process h4 {
   text-transform: uppercase;
-  color: #0d0d0d;
+  color: #aaf1ff;
 }
 #work-process span {
   font-size: 48px;
-  color: #0d0d0d;
+  color: #aaf1ff;
   margin-bottom: 15px;
 }
 
@@ -508,24 +508,24 @@ Fun Facts Style
 }
 #fun-facts h2 {
   text-transform: uppercase;
-  color: #fff;
+  color: #FFB8AA;
 }
 #fun-facts p {
-  color: #fff;
+  color: #FFB8AA;
 }
 #fun-facts h4 {
   text-transform: uppercase;
-  color: #fff;
+  color: #FFB8AA;
 }
 #fun-facts .number {
-  color: #fff;
+  color: #FFB8AA;
   font-weight: 700;
   padding: 10px 0;
   margin: 0;
 }
 #fun-facts span {
   font-size: 48px;
-  color: #fff;
+  color: #FFB8AA;
   margin-bottom: 15px;
 }
 
@@ -552,7 +552,7 @@ Our Team Style
   color: #a3a3a3;
 }
 #team .team a {
-  color: #0d0d0d;
+  color: #aaf1ff;
   font-size: 22px;
   padding-right: 10px;
   -moz-transition: all 0.3s ease-in-out;
@@ -583,10 +583,10 @@ Testimonials Style
 }
 #testimonials h2 {
   text-transform: uppercase;
-  color: #fff;
+  color: #FFB8AA;
 }
 #testimonials p {
-  color: #fff;
+  color: #FFB8AA;
 }
 #testimonials .item .quote {
   margin: 20px auto;
@@ -595,15 +595,15 @@ Testimonials Style
 #testimonials .item .quote .right {
   margin-left: 40px;
   font-size: 32px;
-  color: #fff;
+  color: #FFB8AA;
 }
 #testimonials .item .quote .left {
   float: left;
   margin-right: 40px;
-  color: #fff;
+  color: #FFB8AA;
 }
 #testimonials .item h5 {
-  color: #fff;
+  color: #FFB8AA;
   line-height: 36px;
 }
 #testimonials .item h5 span {
@@ -611,10 +611,10 @@ Testimonials Style
   text-transform: uppercase;
 }
 #testimonials .owl-pagination .owl-page.active span {
-  background-color: #fff;
+  background-color: #FFB8AA;
 }
 #testimonials .owl-pagination .owl-page span {
-  border: 2px solid #fff;
+  border: 2px solid #FFB8AA;
   border-radius: 50%;
   background: transparent;
   opacity: 1;
@@ -645,7 +645,7 @@ Contact Us Style
   -webkit-border-radius: 0;
   border-radius: 0;
   border: 2px solid #24242a;
-  color: #0d0d0d;
+  color: #aaf1ff;
   min-height: 45px;
 }
 #contact textarea {
@@ -677,7 +677,7 @@ footer .social {
   margin: 40px 0;
 }
 footer .social a {
-  color: #fff;
+  color: #FFB8AA;
   margin-left: 20px;
   margin-right: 20px;
   -moz-transition: all 0.3s ease-in-out;
@@ -692,7 +692,7 @@ footer .social a:active {
 }
 footer h6 {
   text-transform: uppercase;
-  color: #fff;
+  color: #FFB8AA;
 }
 
     /* ==========================================================================
@@ -723,7 +723,7 @@ Media Queries Style
     border: none;
   }
   .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #FFB8AA;
   }
   .navbar-default .navbar-toggle:hover,
   .navbar-default .navbar-toggle:focus,
